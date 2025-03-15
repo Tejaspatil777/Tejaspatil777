@@ -59,7 +59,7 @@ I'm a software development engineer. Interested in Solving problems faced during
 
 ## Social Media Handles
 [![Github](https://img.shields.io/github/followers/Tejaspatil777?label=Follow&style=social)](https://github.com/Tejaspatil777)
-[![Linkedin](https://img.shields.io/badge/-Bhaveshpatil-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/tejas-patil-1607058t/)
+[![Linkedin](https://img.shields.io/badge/-Tejaspatil-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/tejas-patil-1607058t/)
 [![Mail](https://img.shields.io/badge/-tejasrpatil804@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:tejasrpatil804@gmail.com)
 
 ## Profile Visits
