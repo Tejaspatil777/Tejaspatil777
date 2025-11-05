@@ -54,8 +54,6 @@ I'm a software development engineer. Interested in Solving problems faced during
 
 ## Operating Systems I worked with
 <code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 
 ## Social Media Handles
 [![Github](https://img.shields.io/github/followers/Tejaspatil777?label=Follow&style=social)](https://github.com/Tejaspatil777)
