@@ -61,7 +61,8 @@ I'm a software development engineer. Interested in Solving problems faced during
 [![Mail](https://img.shields.io/badge/-tejasrpatil804@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:tejasrpatil804@gmail.com)
 
 ## Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/{Tejaspatil777}/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=Tejaspatil777&label=Profile%20Visits&color=blue&style=flat)
+
 
 
 ## My GitHub Stats & Badges
