@@ -14,7 +14,7 @@ I'm a software development engineer. Interested in Solving problems faced during
 - 🌍 I'm based in Saikhedi, India
 - 🔭 I’m currently working on : Java, Python, Data Structure, Spring, Spring Boot, PostgreSQL, Docker and many more things.
 - 👯 I’m looking to collaborate on : Java projects
-- 📫 How to reach me : (https://www.linkedin.com/in/tejas-patil-1607058t/)
+- 📫 How to reach me : (www.linkedin.com/in/tejas777)
 - 📫 My Portfolio : (https://github.com/Tejaspatil777)
 - ⚡ Fun fact : You know, who I'm!! 😜
 
