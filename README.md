@@ -64,11 +64,14 @@ I'm a software development engineer. Interested in Solving problems faced during
 ![Profile views](https://komarev.com/ghpvc/?username=Tejaspatil777&label=Profile%20Visits&color=blue&style=flat)
 
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Stats & Badges
 
-\<p align="center">   \<img src="[https://github-stats-extended.vercel.app/api?username=Tejaspatil777&show_icons=true&theme=buefy&hide_border=true](https://github-stats-extended.vercel.app/api?username=Tejaspatil777\&show_icons=true\&theme=buefy\&hide_border=true)" height="165" />   \<img src="[https://github-stats-extended.vercel.app/api/top-langs/?username=Tejaspatil777&layout=compact&theme=buefy&hide_border=true](https://github-stats-extended.vercel.app/api/top-langs/?username=Tejaspatil777\&layout=compact\&theme=buefy\&hide_border=true)" height="165" /> \</p>
+\<p align="center">   \<img src="[https://github-profile-trophy.vercel.app/?username=Tejaspatil777&theme=flat&no-frame=true&no-bg=true&margin-w=4](https://github-profile-trophy.vercel.app/?username=Tejaspatil777\&theme=flat\&no-frame=true\&no-bg=true\&margin-w=4)" alt="GitHub Trophies" /> \</p>
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=Tejaspatil777&theme=buefy&hide_border=true](https://streak-stats.demolab.com?user=Tejaspatil777\&theme=buefy\&hide_border=true)" /> \</p>
+\<p align="center">   \<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Tejaspatil777&show_icons=true&theme=buefy&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Tejaspatil777\&show_icons=true\&theme=buefy\&hide_border=true\&count_private=true)" alt="Tejas's GitHub Stats" />   \<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaspatil777&layout=compact&theme=buefy&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaspatil777\&layout=compact\&theme=buefy\&hide_border=true\&langs_count=8)" alt="Top Languages" /> \</p>
+
+\<p align="center">   \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Tejaspatil777&theme=buefy&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Tejaspatil777\&theme=buefy\&hide_border=true)" alt="GitHub Streak" /> \</p>
+
 
 ## GitHub Activity Graph
 [![Tejas's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejaspatil777&custom_title=Tejaspatil777%27s%20activity%20graph&bg_color=fffff0&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&color=708090&days=60)](https://github.com/Tejaspatil777)
