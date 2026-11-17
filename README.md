@@ -64,13 +64,13 @@ I'm a software development engineer. Interested in Solving problems faced during
 ![Profile views](https://komarev.com/ghpvc/?username=Tejaspatil777&label=Profile%20Visits&color=blue&style=flat)
 
 
-## 📊 My GitHub Stats & Badges
+## 📊 My GitHub Stats
 
-\<p align="center">   \<img src="[https://github-profile-trophy.vercel.app/?username=Tejaspatil777&theme=flat&no-frame=true&no-bg=true&margin-w=4](https://github-profile-trophy.vercel.app/?username=Tejaspatil777\&theme=flat\&no-frame=true\&no-bg=true\&margin-w=4)" alt="GitHub Trophies" /> \</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejaspatil777&show_icons=true&theme=buefy&hide_border=true)
 
-\<p align="center">   \<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Tejaspatil777&show_icons=true&theme=buefy&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Tejaspatil777\&show_icons=true\&theme=buefy\&hide_border=true\&count_private=true)" alt="Tejas's GitHub Stats" />   \<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaspatil777&layout=compact&theme=buefy&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaspatil777\&layout=compact\&theme=buefy\&hide_border=true\&langs_count=8)" alt="Top Languages" /> \</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaspatil777&layout=compact&theme=buefy&hide_border=true&langs_count=8)
 
-\<p align="center">   \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Tejaspatil777&theme=buefy&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Tejaspatil777\&theme=buefy\&hide_border=true)" alt="GitHub Streak" /> \</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Tejaspatil777&theme=buefy&hide_border=true)
 
 
 ## GitHub Activity Graph
